@@ -4,6 +4,8 @@
 
 - <b>Data Structures and Algorithms</b>
   - [Pathfinding Visualizer](https://github.com/AlbinJohns/albinjohns.github.io/tree/master/Pathfinder)
+- <b>Amazon Web Services(AWS)</b>
+  - [AWS QuickSight Analysis for Bestseller Products](https://github.com/AlbinJohns/AWS-QuickSight-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
