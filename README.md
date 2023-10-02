@@ -1,4 +1,4 @@
-<h1>Hi, I'm Albin! <br/><a href="https://github.com/AlbinJohns">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a></h1>
+<h1>Hi, I'm Albin! <br/><a href="https://github.com/AlbinJohns">Programmer</a>, <a href="https://www.linkedin.com/in/albin-johns/">Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
