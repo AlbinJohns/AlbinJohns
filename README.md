@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Albin! <br/><a href="https://github.com/AlbinJohns">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a></h1>
 
-<!--
-**AlbinJohns/AlbinJohns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms</b>
+  - [Pathfinding Visualizer](https://github.com/AlbinJohns/albinjohns.github.io/tree/master/Pathfinder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://i.imgur.com/FmYWhQF.png" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[X]: https://twitter.com/johns_albin
+[instagram]: https://www.instagram.com/albin.johns/
+[linkedin]: https://www.linkedin.com/in/albin-johns/
