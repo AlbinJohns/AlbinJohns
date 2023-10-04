@@ -9,9 +9,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://i.imgur.com/FmYWhQF.png" />][X]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://i.imgur.com/ZpcQz74.png" />][X]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.imgur.com/fho5wks.png" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://i.imgur.com/57VcFtz.png" />][instagram]
 
 [X]: https://twitter.com/johns_albin
 [instagram]: https://www.instagram.com/albin.johns/
