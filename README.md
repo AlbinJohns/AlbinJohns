@@ -5,6 +5,8 @@
 - <b>Amazon Web Services(AWS)</b>
   - [AWS QuickSight Analysis for Bestseller Products](https://github.com/AlbinJohns/AWS-QuickSight-Project)
   - [CICD Pipeline using AWS EC2 and GitHub](https://github.com/AlbinJohns/AWS-CICD-Project)
+- <b>Artificial Intelligence and Deep Learning</b>
+  - [Crack Detection using ResNet-18](https://github.com/AlbinJohns/Crack-Detection-Using-ResNet18)
 - <b>Data Structures and Algorithms</b>
   - [Pathfinding Visualizer](https://github.com/AlbinJohns/albinjohns.github.io/tree/master/Pathfinder)
 
