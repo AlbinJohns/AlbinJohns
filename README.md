@@ -10,6 +10,8 @@
   - [Stop Sign CNN Classification in CV Studio](https://github.com/AlbinJohns/CVStudio_StopSignCNN)
 - <b>Data Structures and Algorithms</b>
   - [Pathfinding Visualizer](https://github.com/AlbinJohns/albinjohns.github.io/tree/master/Pathfinder)
+- <b>Natural Language Processing</b>
+  - [SentiVision](https://github.com/AlbinJohns/SentiVision)
 
 <h2> 🤳 Connect with me:</h2>
 
